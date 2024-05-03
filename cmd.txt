@@ -3,4 +3,4 @@ ng serve
 npm install --save bootstrap@3
 
 ng g c servers
-ng generate component servers
+ng generate component servers 
