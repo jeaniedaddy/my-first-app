@@ -1,0 +1,6 @@
+ng new my-first-app --no-strict --standalone false --routing false 
+ng serve
+npm install --save bootstrap@3
+
+ng g c servers
+ng generate component servers
